@@ -1,6 +1,6 @@
 ### Olá! eu sou a Yanka 
 
-- 🔭 Atualmente estou em busca de um trabalho na área de T.I.
+- 🔭 Atualmente não estou trabalhando na área de T.I.
 - 📚 Engenharia da Computação (5/10)
 - 🌱 Estou estudando Python, Java e C
 - 😄 Pronomes: ela/dela
